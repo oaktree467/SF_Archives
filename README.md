@@ -20,7 +20,7 @@ version 4.0__](https://isfdb.org/wiki/index.php/Creative_Commons_License).
 - Developed by Olivia Kiklica for the [__Science Fiction Archives at the Georgia Institute of Technology.__](https://www.library.gatech.edu/scifi-lounge)
 
 ## Technologies Used
-- Anaconda, includes:
+- Anaconda 3, includes:
     - Jupyter Notebooks
     - Python - version 3.9.12
     - pandas - version 1.4.4
@@ -29,7 +29,6 @@ version 4.0__](https://isfdb.org/wiki/index.php/Creative_Commons_License).
 
 
 ## Features
-List the ready features here:
 - Takes .xlsx sheets of inventory and matches inventory to existing data on ISFDB.
 - Enriches barebones inventory data with issue/volume data.
 - Presents data for manual review before final output.
