@@ -15,7 +15,7 @@
 
 ## General Information
 - Significantly reduces the time required to add new volume data to existing box data in ArchivesSpace resources.
-- Enriches inventory information with data from the [__Internet Speculative Fiction Database__](https://www.isfdb.org/) under the [__Creative Commons License
+- Enriches inventory information with <b>issue and volume data</b> from the [__Internet Speculative Fiction Database__](https://www.isfdb.org/) under the [__Creative Commons License
 version 4.0__](https://isfdb.org/wiki/index.php/Creative_Commons_License).
 - Developed by Olivia Kiklica for the [__Science Fiction Archives at the Georgia Institute of Technology.__](https://www.library.gatech.edu/scifi-lounge)
 
