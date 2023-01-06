@@ -1,6 +1,6 @@
 # Automated Science Fiction Magazine Inventory for ArchivesSpace
 > This project takes in basic inventory information regarding
->science fiction magazines, enriches it, and outputs it in 
+>science fiction magazines, enriches it, and outputs it 
 >in a ready-to-upload format for ArchivesSpace.
 
 ## Table of Contents
